@@ -1,0 +1,102 @@
+body { background: none repeat scroll 0 0 #2C2C2C; color: #FFF; }
+/****section-header*****/
+h1, h2, h3, h4, h5, h6 { color:#8C8C8C; }
+.logo { background: url("../../img/p-iris_w.png") no-repeat scroll 0 0 transparent; }
+.navbar-default { background-color: #2C2C2C; border-bottom: medium none; }
+.navbar-default .navbar-nav > li > a { color: #FFF; }
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus { background: #C53727; color: #2C2C2C; }
+.page-head small { color: #C53727 }
+.page-head:before { background: #741C13 }
+/* ==========================================================
+                services
+============================================================= */
+.hi-icon-effect-2 .hi-icon { color: #2C2C2C; }
+.hi-icon-effect-2 .hi-icon:after { background: #C53727 }
+.no-touch .hi-icon-effect-2a .hi-icon:hover { color: #2C2C2C; }
+.hi-icon-effect-2 .hi-icon { box-shadow: 0 0 0 4px #C53727 }
+.no-touch .hi-icon-effect-2b .hi-icon:hover { color: #C53727 }
+/* ==========================================================
+                About
+============================================================= */
+.about_us figcaption { background: #C53727; color: #2C2C2C; }
+.about_us figcaption h3 { color: #2C2C2C; }
+.about_social li a { color: #2C2C2C; }
+.about_social li:hover { background-color: #2C2C2C; border: 1px solid #2C2C2C; }
+.about_social li:hover a { color: #C53727; }
+/* ==========================================================
+                 Portfolio
+============================================================= */
+section.grid_gallery #fullPreview figure { background-image: url("../../img/close.png"); }
+section.grid_gallery li:hover .overLayer { background:  #C53727; }
+/* ==========================================================
+                Projects
+============================================================= */
+.project_data { border: 1px solid #C53727; color: #fff; }
+.project_data:before { background: none repeat scroll 0 0 #C53727; }
+.project_data .icon { color: #2c2c2c; }
+.project_data h3 { border-bottom: 1px solid #C53727; }
+.project_data:hover h3, .project_data:active h3 { border-bottom-color: #2c2c2c; color: #2c2c2c; }
+.project_data:hover p, .project_data:active p { color: #2c2c2c; }
+/* ==========================================================
+               pricing tables
+============================================================= */
+.price-plan { border: 3px solid #C53727; }
+.price-plan h2 { color: #C53727; }
+.price-plan h2:after { background: #C53727; content: " "; display: block; height: 2px; margin: 20px auto 0; width: 222px; }
+.price-plan .price .inside { color: #C53727; }
+.price-plan .info ul li { border-bottom: 1px dotted #C53727; color: #fff; }
+.price-plan .info ul li .free { background: #C53727; color: #2c2c2c; }
+.price-plan .info .btn-default { background-color: #C53727; color: #2C2C2C; }
+.price-plan .info .btn-default:hover { background-color: #B52D1E; }
+/* ==========================================================
+                Blog
+============================================================= */
+.overlay { background:  #C53727; }
+.overlay-content .more { padding:5px 10px; color:#2c2c2c; border:2px solid #2c2c2c }
+.Team .blog_tags a { color: #C53727; }
+.blog_wrap .blog_tags span { color: #8C8C8C; }
+.blog_tags a, .tags a { color: #C53727; }
+/***blog post*/
+.blog_date { background-color: #FFF; color: #2C2C2C; }
+.tag-list ul li { background:  #C53727; }
+.tag-list ul li:hover { background:  #B52D1E; }
+.tag-list ul li a { color: #2C2C2C; }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus { background-color: #C53727; ; color:#2c2c2c }
+.nav > li > a:hover, .nav > li > a:focus { background-color: #B52D1E; color: #2C2C2C; }
+.nav-tabs > li > a { color: #FFF; }
+blockquote { border-left: 5px solid #C53727; }
+.ads img:hover { border: 3px solid #C53727; }
+.tag-list ul li, .cat-list ul li { border: 3px solid #C53727; }
+.tag-list ul li a { color: #2c2c2c; }
+.cat-list ul li a, .media-heading .date { color: #C53727; }
+.tag-list ul li:hover, .cat-list ul li:hover { border: 3px solid #811D12; }
+.media, .media .media { border-top: 1px dashed #C53727; }
+/* ==========================================================
+                contact us
+============================================================= */
+.form-control { background-color: #2C2C2C; border-left:1px solid #C53727; border-right:none; border-top:none; border-bottom:1px solid #C53727; color: #fff; }
+.form-control:-moz-placeholder {
+color: #C53727;
+}
+.form-control::-moz-placeholder {
+color: #C53727;
+}
+.form-control:-ms-input-placeholder {
+color: #C53727;
+}
+.form-control::-webkit-input-placeholder {
+color: #C53727;
+}
+.form-control:focus { border-right:1px solid #C53727; border-top:1px solid #C53727; border-color: #C53727; color:#C53727; -webkit-box-shadow: -0.4em 0em 0em 0em #C53727 inset; -moz-box-shadow: -0.4em 0em 0em 0em #C53727 inset; box-shadow: -0.4em 0em 0em 0em #C53727 inset; }
+.btn-default { background-color: #C53727; color: #2C2C2C; }
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default { background-color: #B52D1E; color: #2C2C2C; }
+.contact_info > p { background: #1C1C1C; color: #FFF; }
+.contact_info span { background: none repeat scroll 0 0 #1C1C1C; border: 2px solid #C53727; color: #FFF; }
+/* ==========================================================
+                footer
+============================================================= */
+footer p { color: #C53727; }
+footer a { color: #C53727; }
+.footer_social > li { border: 1px solid #C53727; }
+.footer_social > li:hover { background-color: #C53727; }
+.footer_social > li:hover a { color: #2C2C2C; }
